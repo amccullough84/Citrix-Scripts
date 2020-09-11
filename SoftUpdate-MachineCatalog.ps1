@@ -9,7 +9,7 @@
 
 ###### VARIABLES #######
 #Update the customer ID to your customer ID to use secureclient authentication 
-$CustomerID = "vj7bvsht6h6d"
+$CustomerID = "xxxxxxxxxx"
 $scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
 #This is the path to the secureclient.csv file to use if you want to authenticate to Citrix Cloud using a secure 
 #client. If this is not present then you will be prompted for authentication
